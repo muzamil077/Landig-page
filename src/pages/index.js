@@ -27,7 +27,7 @@ export default function Home() {
       <TestimonialsSection />
       <FeatureSection />
       <PricingSection />
-      <CTASection/>
+      <CTASection />
     </div>
   );
 }
