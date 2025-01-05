@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { Button } from "../Components/ui/button";
-import imageOne from "../images/one.png";
-import imageTwo from "../images/two.png";
+import imageOne from "../../public/images/one.png";
+import imageTwo from "../../public/images/two.png";
 
 export default function AboutSection() {
   return (

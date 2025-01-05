@@ -4,8 +4,8 @@ import { useRef } from "react";
 import Image from "next/image";
 import { Star } from "lucide-react";
 import { Button } from "../Components/ui/button";
-import frame from "../images/frame.png";
-import vector from "../images/vector.png";
+import frame from "../../public/images/frame.png";
+import vector from "../../public/images/vector.png";
 
 const testimonials = [
   {

@@ -1,6 +1,6 @@
 import { Button } from "../Components/ui/button";
 import Image from "next/image";
-import CTAImage from "../images/CTAImage.png";
+import CTAImage from "../../public/images/CTAImage.png";
 
 export default function CTASection() {
   return (

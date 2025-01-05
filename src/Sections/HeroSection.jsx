@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { Button } from "../Components/ui/button";
-import sidImage from "../images/bv.png";
-import bgimage from "../images/bg-hero.png";
+import sidImage from "../../public/images/bv.png";
+import bgimage from "../../public/images/bg-hero.png";
 export default function HeroSection() {
   return (
     <div className=" h-auto lg:h-[90vh]  relative w-full ">
