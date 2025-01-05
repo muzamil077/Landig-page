@@ -1,5 +1,4 @@
-import { Button } from "@/components/ui/button";
-import CTABG from "../images/bg-hero.png";
+import { Button } from "../Components/ui/button";
 import Image from "next/image";
 import CTAImage from "../images/CTAImage.png";
 

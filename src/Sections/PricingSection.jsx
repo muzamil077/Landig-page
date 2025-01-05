@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { Check } from "lucide-react";
-import { Button } from "@/components/ui/button";
+import { Button } from "../Components/ui/button";
 import bgimage from "../images/bg-hero.png";
 import Image from "next/image";
 

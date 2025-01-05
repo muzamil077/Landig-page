@@ -4,7 +4,7 @@ import { TopBar } from "./Topbar";
 export default function Layout({ children }) {
   return (
     <>
-      <TopBar />
+      <TopBar/>
       <main>{children}</main>
       <Footer />
     </>

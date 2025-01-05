@@ -6,7 +6,7 @@ import ProcessSection from "@/Sections/ProcessSection";
 import TestimonialsSection from "@/Sections/Testimonials";
 import PricingSection from "@/Sections/PricingSection";
 import FeatureSection from "@/Sections/FeatureSection";
-import CTASection from "@/Sections/StartNowSection";
+import CTASection from "@/Sections/CTASection";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",

@@ -1,4 +1,4 @@
-import { FeatureCard } from "@/Components/ui/FeatureCard";
+import { FeatureCard } from "../Components/ui/FeatureCard";
 import {
   FolderSearch,
   History,

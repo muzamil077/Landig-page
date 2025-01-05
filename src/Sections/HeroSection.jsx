@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { Button } from "@/components/ui/button";
+import { Button } from "../Components/ui/button";
 import sidImage from "../images/bv.png";
 import bgimage from "../images/bg-hero.png";
 export default function HeroSection() {
